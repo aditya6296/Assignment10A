@@ -1,0 +1,30 @@
+.c2 {
+  height: 80px;
+  width: 80px;
+  position: relative;
+  left: 60px;
+}
+
+.c3 {
+  height: 60px;
+  width: 60px;
+  position: relative;
+  left: 80px;
+}
+
+.c6 {
+  position: relative;
+  bottom: 30px;
+  left: 30px;
+}
+
+.c7 {
+  position: relative;
+  z-index: 1;
+}
+
+.c8 {
+  position: relative;
+  bottom: 30px;
+  left: 30px;
+}
